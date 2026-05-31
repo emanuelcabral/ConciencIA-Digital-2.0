@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ConciencIA Digital</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body class="dark-theme">
+
+  <!-- NAVBAR -->
+  <header>
+    <nav class="navbar">
+      <div class="logo">Concienc<span>IA</span> Digital</div>
+
+      <input type="checkbox" id="menu-toggle">
+
+      <label for="menu-toggle" class="hamburger">
+        &#9776;
+      </label>
+
+      <ul class="nav-links">
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Artículos</a></li>
+        <li><a href="#">Contacto</a></li>
+        <li>
+          <button id="theme-toggle" class="theme-btn">☀️</button>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- CALL TO ACTION -->
+  <section class="cta" style="background-image: url('img/banner.jpg');">
+    <div class="cta-content">
+      <h1>Bienvenido a ConciencIA Digital 🚀</h1>
+
+      <p>
+        Explora las últimas tendencias en
+        <span class="highlight">Inteligencia Artificial</span>
+        y descubre cómo cambiará el mundo.
+      </p>
+
+      <button>Explorar Artículos</button>
+
+      <p class="remark">
+        Únete y
+        <span class="gradient-text">potencia tu conocimiento AI</span>
+        🌐
+      </p>
+    </div>
+  </section>
+
+  <!-- ARTÍCULOS -->
+  <main>
+    <section class="articles" id="articles-container">
+      <!-- Se cargan dinámicamente -->
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 ConciencIA Digital | Hecho con ❤️ y <span>IA</span></p>
+  </footer>
+
+  <!-- CARGA DINÁMICA -->
+  <script>
+    async function cargarArticulos() {
+      try {
+
+        const response = await fetch('./articulos.json');
+
+        if (!response.ok) {
+          throw new Error(
+            `Error HTTP: ${response.status}`
+          );
+        }
+
+        const articulos = await response.json();
+
+        const container =
+          document.getElementById('articles-container');
+
+        container.innerHTML = articulos.map(articulo => `
+          <article>
+            <h2>
+              <a href="${articulo.url}">
+                ${articulo.titulo}
+              </a>
+            </h2>
+
+            <p>${articulo.descripcion}</p>
+
+            <img
+              src="${articulo.imagen}"
+              alt="${articulo.alt}"
+              loading="lazy"
+            >
+          </article>
+
+          <hr>
+        `).join('');
+
+      } catch (error) {
+        console.error(
+          'Error cargando artículos:',
+          error
+        );
+
+        document.getElementById('articles-container').innerHTML = `
+          <p style="color:red">
+            Error al cargar los artículos.
+          </p>
+        `;
+      }
+    }
+
+    document.addEventListener(
+      'DOMContentLoaded',
+      cargarArticulos
+    );
+  </script>
+
+  <!-- DARK/LIGHT -->
+  <script>
+    const themeToggle =
+      document.getElementById('theme-toggle');
+
+    const body = document.body;
+
+    themeToggle.addEventListener('click', () => {
+
+      body.classList.toggle('dark-theme');
+      body.classList.toggle('light-theme');
+
+      themeToggle.textContent =
+        body.classList.contains('dark-theme')
+          ? '☀️'
+          : '🌙';
+    });
+  </script>
+
+  <!-- BOTÓN SUBIR -->
+  <a href="#" class="subir" aria-label="Subir al inicio">
+    <span>☝️</span>
+  </a>
+
+</body>
+</html>

@@ -1,0 +1,837 @@
+[
+{
+  "id": "ia-reemplaza-empleos",
+  "titulo": "⚠️ La IA ya está reemplazando empleos (y nadie te lo está contando así)",
+  "url": "pages/ia-reemplaza-empleos.html",
+  "descripcion": "Millones de trabajos podrían desaparecer antes de lo que crees… pero hay un detalle oculto que cambia todo.",
+  "imagen": "img/ia-empleos.jpg",
+  "alt": "IA reemplazando trabajos",
+
+  "contenido": [
+    {
+      "tipo": "p",
+      "texto": "La automatización y la inteligencia artificial están transformando el mercado laboral a un ritmo sin precedentes. Lo que antes hacían humanos ahora puede hacerlo una máquina con mayor rapidez y precisión."
+    },
+    {
+      "tipo": "p",
+      "texto": "Desde manufactura hasta atención al cliente, muchos empleos corren el riesgo de ser reemplazados o modificados radicalmente."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "⚖️ El impacto real"
+    },
+    {
+      "tipo": "p",
+      "texto": "Según varios estudios, millones de trabajos podrían desaparecer en la próxima década. Pero no se trata solo de perder empleo: también se abren nuevas oportunidades en campos tecnológicos y creativos."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "El desafío está en adaptarse rápido, adquirir nuevas habilidades y comprender qué trabajos están más expuestos a la automatización."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🤖 Robots y algoritmos en acción"
+    },
+    {
+      "tipo": "p",
+      "texto": "La IA ya está realizando tareas complejas que antes requerían expertos humanos. Desde redactar informes hasta conducir vehículos, la tecnología avanza sin detenerse."
+    },
+    {
+      "tipo": "p",
+      "texto": "El gran dilema es cómo balancear eficiencia y empleo humano. Las decisiones de las empresas podrían cambiar la vida de millones de personas."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🌍 Cambios globales"
+    },
+    {
+      "tipo": "p",
+      "texto": "No todos los países están igual de preparados. En algunos, la educación y la reconversión laboral intentan mitigar el impacto. En otros, los cambios ocurren sin preparación previa."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "La pregunta clave es: ¿estamos listos para un mundo donde la IA toma cada vez más decisiones económicas y laborales?"
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🚨 Reflexión final"
+    },
+    {
+      "tipo": "p",
+      "texto": "La IA puede reemplazar empleos, pero también crear nuevas oportunidades. La clave está en adaptarse, aprender y anticiparse al cambio."
+    }
+  ],
+
+  "cta": {
+    "titulo": "📌 Mantente al día",
+    "texto": "Comprender cómo la IA impacta el empleo te permite tomar decisiones informadas y prepararte para el futuro laboral."
+  }
+},
+{
+  "id": "ia-lee-mentes",
+  "titulo": "🧠 La IA que puede leer tu mente ya existe",
+  "url": "pages/ia-lee-mentes.html",
+  "descripcion": "No es ciencia ficción. Científicos lograron interpretar pensamientos… pero lo más inquietante viene después.",
+  "imagen": "img/ia-mente.webp",
+  "alt": "IA leyendo mente",
+
+  "contenido": [
+    {
+      "tipo": "p",
+      "texto": "Imagina poder saber exactamente lo que alguien está pensando. Lo que antes parecía un sueño de ciencia ficción ahora está más cerca de la realidad gracias a la Inteligencia Artificial."
+    },
+    {
+      "tipo": "p",
+      "texto": "Investigadores han desarrollado algoritmos capaces de interpretar señales cerebrales y traducirlas en palabras o imágenes, utilizando datos de resonancias magnéticas y sensores avanzados."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "⚠️ ¿Cómo funciona?"
+    },
+    {
+      "tipo": "p",
+      "texto": "Los sistemas de IA analizan patrones neuronales y correlacionan la actividad cerebral con ciertos pensamientos o imágenes."
+    },
+    {
+      "tipo": "p",
+      "texto": "Esto permite “predecir” lo que la persona está pensando con un grado sorprendente de precisión."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "Lo inquietante no es solo la capacidad tecnológica, sino las implicaciones éticas de leer la mente humana."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🤖 Aplicaciones y riesgos"
+    },
+    {
+      "tipo": "p",
+      "texto": "Si bien la tecnología podría ayudar en medicina, comunicación para personas con discapacidades o marketing personalizado, también plantea riesgos enormes en privacidad y manipulación."
+    },
+    {
+      "tipo": "p",
+      "texto": "El potencial de uso indebido es tan real como los beneficios que promete."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🌍 Ética y regulación"
+    },
+    {
+      "tipo": "p",
+      "texto": "El avance de esta IA nos fuerza a replantearnos la privacidad mental. ¿Debería existir un límite para lo que la tecnología puede conocer de nosotros?"
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "La conciencia sobre los riesgos es fundamental antes de que estas herramientas se generalicen."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🚨 Reflexión final"
+    },
+    {
+      "tipo": "p",
+      "texto": "El futuro en el que los pensamientos puedan ser leídos no es tan lejano. Prepararse para sus implicaciones éticas y legales será clave."
+    }
+  ],
+
+  "cta": {
+    "titulo": "📌 Mantente informado",
+    "texto": "Comprender cómo la IA puede acceder a la mente humana te permite reflexionar y tomar decisiones más informadas sobre tu privacidad."
+  }
+},
+{
+"id": "robots-conciencia",
+"titulo": "🤖 ¿Los robots ya tienen conciencia? La respuesta sorprende",
+"url": "pages/robots-conciencia.html",
+"descripcion": "Algunos expertos creen que estamos cruzando una línea peligrosa… y no hay vuelta atrás.",
+"imagen": "img/ia-conciencia.jpg",
+"alt": "robots conciencia",
+
+"contenido": [
+    {
+      "tipo": "p",
+      "texto": "La inteligencia artificial avanza a pasos agigantados. Algunos sistemas ya pueden tomar decisiones complejas que antes solo podían hacer los humanos."
+    },
+    {
+      "tipo": "p",
+      "texto": "Pero esto plantea una pregunta inquietante: ¿pueden los robots llegar a tener conciencia?"
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "⚠️ Un debate ético y científico"
+    },
+    {
+      "tipo": "p",
+      "texto": "Mientras algunos investigadores sostienen que la conciencia requiere emociones y experiencia subjetiva, otros creen que algoritmos avanzados podrían simularla de manera convincente."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "Si los robots llegaran a actuar como si tuvieran conciencia, ¿cómo afectaría esto a nuestra sociedad y nuestra ética?"
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🤖 Robots cada vez más autónomos"
+    },
+    {
+      "tipo": "p",
+      "texto": "Los sistemas modernos no solo ejecutan órdenes; aprenden, predicen y adaptan su comportamiento según el entorno."
+    },
+    {
+      "tipo": "p",
+      "texto": "Esto significa que algunas decisiones que antes eran humanas ahora podrían ser responsabilidad de una máquina."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🌍 Implicaciones globales"
+    },
+    {
+      "tipo": "p",
+      "texto": "Desde vehículos autónomos hasta asistentes virtuales, la IA está tomando roles que impactan vidas humanas de forma directa."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "El gran reto será decidir hasta dónde dejamos que estas máquinas tomen decisiones críticas sin supervisión humana."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🚨 Reflexión final"
+    },
+    {
+      "tipo": "p",
+      "texto": "La posibilidad de que los robots adquieran conciencia sigue siendo teórica, pero los avances tecnológicos nos obligan a prepararnos y debatir sobre su futuro."
+    }
+  ]
+
+},
+{
+  "id": "ia-medicina-futuro",
+  "titulo": "🏥 La IA está salvando vidas… pero hay algo que no quieren que sepas",
+  "url": "pages/ia-medicina-futuro.html",
+  "descripcion": "Diagnósticos en segundos y precisión extrema. Pero existe un riesgo silencioso que pocos mencionan.",
+  "imagen": "img/ia-medicina.jpeg",
+  "alt": "IA en Medicina",
+
+  "contenido": [
+    {
+      "tipo": "p",
+      "texto": "La inteligencia artificial está revolucionando la medicina. Desde diagnósticos más rápidos hasta tratamientos personalizados, los avances parecen ilimitados."
+    },
+    {
+      "tipo": "p",
+      "texto": "Imágenes médicas, análisis de laboratorio y patrones de síntomas son procesados en segundos, permitiendo decisiones que antes tardaban días o semanas."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "⚠️ El poder de la predicción"
+    },
+    {
+      "tipo": "p",
+      "texto": "Los algoritmos pueden detectar enfermedades antes de que los síntomas sean evidentes, lo que salva vidas y mejora la calidad del tratamiento."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "Lo impresionante es cómo la IA puede anticipar problemas, pero esto también genera dependencia tecnológica y vulnerabilidades ocultas."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🤖 Beneficios y riesgos"
+    },
+    {
+      "tipo": "p",
+      "texto": "El beneficio es claro: diagnósticos más rápidos y precisos. El riesgo es que errores en los algoritmos pueden pasar desapercibidos y afectar decisiones médicas críticas."
+    },
+    {
+      "tipo": "p",
+      "texto": "Además, la privacidad de los datos médicos es un tema delicado. El acceso indebido a esta información podría tener consecuencias graves."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🌍 Ética y regulación"
+    },
+    {
+      "tipo": "p",
+      "texto": "El uso de IA en salud requiere supervisión y normas claras. ¿Quién es responsable si una decisión automática resulta en daño al paciente?"
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "La tecnología avanza más rápido que las regulaciones. La ética y la protección de datos son esenciales para que la IA beneficie sin riesgos ocultos."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🚨 Reflexión final"
+    },
+    {
+      "tipo": "p",
+      "texto": "La IA en medicina promete salvar millones de vidas, pero también nos recuerda que ningún sistema es infalible y que la supervisión humana sigue siendo clave."
+    }
+  ],
+
+  "cta": {
+    "titulo": "📌 Mantente informado",
+    "texto": "Comprender cómo la IA interviene en la medicina te permite valorar los avances y anticipar los posibles riesgos éticos y legales."
+  }
+},
+{
+  "id": "chatbots-peligro",
+  "titulo": "💬 Los chatbots ya no son lo que parecen (y eso preocupa)",
+  "url": "pages/chatbots-peligro.html",
+  "descripcion": "Algunos usuarios aseguran que las IA responden demasiado humanas. ¿Hasta qué punto es seguro?",
+  "imagen": "img/chatbot-ia.webp",
+  "alt": "Chatbots IA",
+
+  "contenido": [
+    {
+      "tipo": "p",
+      "texto": "Los chatbots están en todas partes: sitios web, apps y hasta en mensajes de atención al cliente. Al principio parecían simples asistentes…"
+    },
+    {
+      "tipo": "p",
+      "texto": "Pero ahora, algunos responden con tanta naturalidad que da la sensación de hablar con otra persona."
+    },
+    {
+      "tipo": "p",
+      "texto": "Esto puede ser útil, pero también genera preocupaciones sobre privacidad y manipulación."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "⚠️ ¿Demasiado humanos?"
+    },
+    {
+      "tipo": "p",
+      "texto": "Los sistemas de IA analizan grandes cantidades de datos para imitar conversaciones humanas de manera muy convincente."
+    },
+    {
+      "tipo": "p",
+      "texto": "Pero esa capacidad también podría ser usada para engañar, influir en decisiones o recolectar información sin que lo notes."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "Lo preocupante es que muchas veces no sabemos si estamos hablando con una persona o con un programa entrenado para simular emociones."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🤖 Riesgos y desafíos"
+    },
+    {
+      "tipo": "p",
+      "texto": "Existen riesgos de desinformación, suplantación de identidad y pérdida de control sobre nuestras propias conversaciones."
+    },
+    {
+      "tipo": "p",
+      "texto": "Además, los chatbots avanzados pueden reforzar prejuicios presentes en los datos con los que fueron entrenados."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🌍 Regulación y ética"
+    },
+    {
+      "tipo": "p",
+      "texto": "Diferentes gobiernos y empresas están buscando reglas para proteger a los usuarios y limitar el mal uso de estas herramientas."
+    },
+    {
+      "tipo": "p",
+      "texto": "Sin embargo, aún no hay consenso global y la tecnología avanza más rápido que la ley."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "Antes de confiar ciegamente en un chatbot, es importante saber quién controla la información y cómo se procesa."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🚨 ¿Qué nos espera?"
+    },
+    {
+      "tipo": "p",
+      "texto": "Los chatbots seguirán mejorando y serán parte de nuestra vida cotidiana."
+    },
+    {
+      "tipo": "p",
+      "texto": "Pero también plantean dilemas éticos y sociales que debemos abordar ahora, antes de que sea demasiado tarde."
+    }
+  ],
+
+  "cta": {
+    "titulo": "📌 Mantente alerta",
+    "texto": "A medida que los chatbots se vuelvan más humanos, nuestra capacidad para distinguir la IA de una persona real será crucial."
+  }
+},
+{
+  "id": "autos-autonomos-decision",
+  "titulo": "🚗 El dilema mortal de los autos autónomos",
+  "url": "pages/autos-autonomos-decision.html",
+  "descripcion": "Los autos autónomos deben tomar decisiones en milisegundos. Pero hay un dilema ético que podría cambiar todo.",
+  "imagen": "img/ia-en-autos.jpg",
+  "alt": "Autos autónomos IA",
+
+  "contenido": [
+    {
+      "tipo": "p",
+      "texto": "Imaginá esto por un segundo: vas en un auto autónomo. Todo funciona perfecto… hasta que algo sale mal."
+    },
+    {
+      "tipo": "p",
+      "texto": "Un obstáculo aparece de repente. El sistema tiene milisegundos para reaccionar. No hay tiempo para frenar."
+    },
+    {
+      "tipo": "p",
+      "texto": "Y en ese instante, la inteligencia artificial tiene que tomar una decisión."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "⚠️ Una elección imposible"
+    },
+    {
+      "tipo": "p",
+      "texto": "¿Debe el auto proteger al pasajero a toda costa? ¿O minimizar el daño total, aunque eso signifique poner en riesgo a quien está dentro?"
+    },
+    {
+      "tipo": "p",
+      "texto": "Este problema no es hipotético. Se conoce como el dilema del tranvía, y ahora está siendo programado en sistemas reales."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "Lo inquietante no es que exista el problema… sino que alguien ya está decidiendo cómo debe responder la máquina."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🤖 ¿Quién toma esa decisión?"
+    },
+    {
+      "tipo": "p",
+      "texto": "Ingenieros, empresas tecnológicas y hasta gobiernos están definiendo cómo deben actuar estos vehículos."
+    },
+    {
+      "tipo": "p",
+      "texto": "Pero no todos están de acuerdo."
+    },
+    {
+      "tipo": "p",
+      "texto": "En algunos países, se prioriza salvar la mayor cantidad de vidas. En otros, proteger al conductor."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🌍 Un problema sin consenso"
+    },
+    {
+      "tipo": "p",
+      "texto": "Esto significa que el comportamiento de un auto autónomo podría cambiar dependiendo del país en el que estés."
+    },
+    {
+      "tipo": "p",
+      "texto": "La misma situación podría tener decisiones completamente diferentes según la regulación."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "¿Te subirías a un auto que podría decidir sacrificarte?"
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🚨 El futuro que se viene"
+    },
+    {
+      "tipo": "p",
+      "texto": "Los autos autónomos prometen reducir accidentes, salvar millones de vidas y cambiar el transporte para siempre."
+    },
+    {
+      "tipo": "p",
+      "texto": "Pero también traen consigo decisiones que antes solo podía tomar un ser humano."
+    },
+    {
+      "tipo": "p",
+      "texto": "Y ahora… esas decisiones están siendo escritas en código."
+    },
+    {
+      "tipo": "p",
+      "texto": "La pregunta ya no es si esta tecnología va a dominar las calles."
+    },
+    {
+      "tipo": "p",
+      "texto": "La verdadera pregunta es: ¿estamos listos para aceptar sus decisiones?"
+    }
+  ],
+
+  "cta": {
+    "titulo": "📌 Esto recién empieza",
+    "texto": "A medida que la IA avance, estos dilemas serán cada vez más comunes… y más difíciles de ignorar."
+  }
+},
+{
+  "id": "ia-arte-humano",
+  "titulo": "🎨 La IA ya crea arte mejor que los humanos (según algunos)",
+  "url": "pages/ia-arte-humano.html",
+  "descripcion": "Obras vendidas por miles de dólares… pero hay un detalle que desata polémica.",
+  "imagen": "img/ia-arte.webp",
+  "alt": "IA arte",
+
+  "contenido": [
+    {
+      "tipo": "p",
+      "texto": "La Inteligencia Artificial no solo está transformando la industria tecnológica, sino también el mundo del arte."
+    },
+    {
+      "tipo": "p",
+      "texto": "Algunos programas de IA generan pinturas, ilustraciones y diseños que compiten con los creados por artistas humanos."
+    },
+    {
+      "tipo": "p",
+      "texto": "Estas obras se venden en subastas y galerías por miles de dólares, sorprendiendo a coleccionistas y críticos."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "⚠️ Controversia y debate"
+    },
+    {
+      "tipo": "p",
+      "texto": "Muchos artistas cuestionan si estas creaciones deberían considerarse arte verdadero, ya que carecen de la experiencia y la intención humana."
+    },
+    {
+      "tipo": "p",
+      "texto": "Otros argumentan que la IA es solo una herramienta más, como un pincel digital, que amplía la creatividad humana."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "El debate se centra en la autoría, el valor y la ética detrás de vender obras creadas por máquinas como si fueran humanas."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🤖 Cómo se crea el arte con IA"
+    },
+    {
+      "tipo": "p",
+      "texto": "Los sistemas de IA utilizan redes neuronales entrenadas con miles de imágenes para aprender estilos y técnicas."
+    },
+    {
+      "tipo": "p",
+      "texto": "Luego, generan piezas nuevas combinando patrones, colores y formas de manera autónoma."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🌍 Impacto en el mercado del arte"
+    },
+    {
+      "tipo": "p",
+      "texto": "Las galerías y coleccionistas se enfrentan a un dilema: ¿invertir en IA o seguir apoyando artistas humanos?"
+    },
+    {
+      "tipo": "p",
+      "texto": "Algunos ven oportunidades de negocio, mientras que otros advierten sobre la posible devaluación del arte tradicional."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "El futuro del arte podría ser híbrido: humano e IA trabajando juntos, o compitiendo en igualdad de condiciones."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🚨 Reflexión final"
+    },
+    {
+      "tipo": "p",
+      "texto": "La IA está cambiando lo que entendemos por creatividad y originalidad."
+    },
+    {
+      "tipo": "p",
+      "texto": "Más allá de la polémica, nos invita a replantearnos el valor del arte y quién lo define."
+    }
+  ]
+},
+{
+  "id": "ia-espia-datos",
+  "titulo": "🔍 ¿Tu celular te escucha? La verdad sobre la IA y tus datos",
+  "url": "pages/ia-espia-datos.html",
+  "descripcion": "Todo lo que haces deja huella… pero lo más inquietante es cómo se usa esa información.",
+  "imagen": "img/ia-datos.jpeg",
+  "alt": "IA datos",
+
+  "contenido": [
+    {
+      "tipo": "p",
+      "texto": "Vivimos en un mundo donde nuestros dispositivos registran cada movimiento, búsqueda y conversación."
+    },
+    {
+      "tipo": "p",
+      "texto": "Desde aplicaciones hasta asistentes virtuales, la Inteligencia Artificial analiza patrones para ofrecer servicios personalizados… o vender publicidad dirigida."
+    },
+    {
+      "tipo": "p",
+      "texto": "Lo que muchos no saben es que esta información puede ser utilizada de maneras que no imaginamos."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "⚠️ La recopilación de datos"
+    },
+    {
+      "tipo": "p",
+      "texto": "Las aplicaciones solicitan permisos para acceder a micrófono, ubicación y contactos."
+    },
+    {
+      "tipo": "p",
+      "texto": "Incluso si no hablas directamente con tu asistente virtual, las IA pueden inferir datos a partir de tu comportamiento digital."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "Tu celular puede “escuchar” más de lo que piensas, incluso sin que interactúes activamente con él."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🤖 Cómo la IA procesa tu información"
+    },
+    {
+      "tipo": "p",
+      "texto": "Algoritmos avanzados analizan patrones de uso, preferencias y hábitos."
+    },
+    {
+      "tipo": "p",
+      "texto": "Esto permite predecir comportamientos, ofrecer recomendaciones y segmentar publicidad de manera muy precisa."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🌍 Riesgos y consecuencias"
+    },
+    {
+      "tipo": "p",
+      "texto": "El problema surge cuando estos datos caen en manos equivocadas o se usan sin consentimiento explícito."
+    },
+    {
+      "tipo": "p",
+      "texto": "La privacidad se convierte en un bien cada vez más escaso, y la línea entre seguridad y vigilancia se difumina."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "La pregunta crucial: ¿estamos dispuestos a sacrificar nuestra privacidad por comodidad y tecnología?"
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🚨 Reflexión final"
+    },
+    {
+      "tipo": "p",
+      "texto": "Comprender cómo la IA utiliza nuestros datos es el primer paso para proteger nuestra información personal."
+    },
+    {
+      "tipo": "p",
+      "texto": "La educación digital y la regulación ética serán esenciales en los próximos años."
+    }
+  ],
+
+  "cta": {
+    "titulo": "📌 Mantente seguro",
+    "texto": "Conocer los riesgos de la IA sobre tus datos te permite tomar decisiones más informadas y proteger tu privacidad."
+  }
+},
+{
+  "id": "superinteligencia-riesgo",
+  "titulo": "🚨 El día que la IA supere al ser humano podría estar cerca",
+  "url": "pages/superinteligencia-riesgo.html",
+  "descripcion": "Algunos expertos hablan de un punto sin retorno… y sus consecuencias son impredecibles.",
+  "imagen": "img/superinteligencia.webp",
+  "alt": "Superinteligencia IA",
+
+  "contenido": [
+    {
+      "tipo": "p",
+      "texto": "La inteligencia artificial avanza más rápido de lo que muchos anticipan. Algunos investigadores advierten que podríamos acercarnos a la era de la superinteligencia."
+    },
+    {
+      "tipo": "p",
+      "texto": "Esta sería una IA capaz de superar la inteligencia humana en prácticamente cualquier tarea."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "⚠️ Riesgos y oportunidades"
+    },
+    {
+      "tipo": "p",
+      "texto": "Si se desarrolla correctamente, la superinteligencia podría resolver problemas globales complejos, desde la medicina hasta el cambio climático."
+    },
+    {
+      "tipo": "p",
+      "texto": "Pero si se maneja de forma inadecuada, también podría generar riesgos existenciales."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "El desafío es asegurarnos de que esta inteligencia sea alineada con valores humanos y bajo control seguro."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🤖 ¿Quién controla esta inteligencia?"
+    },
+    {
+      "tipo": "p",
+      "texto": "Grandes corporaciones y gobiernos lideran la investigación, pero la falta de regulación internacional genera incertidumbre."
+    },
+    {
+      "tipo": "p",
+      "texto": "Algunos expertos temen que decisiones críticas puedan depender de algoritmos que nadie comprende completamente."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🌍 Impacto global"
+    },
+    {
+      "tipo": "p",
+      "texto": "Una IA superinteligente podría cambiar el mundo en semanas o meses, no décadas. Esto significa que el tiempo para prepararnos es muy corto."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "La comunidad científica insta a establecer normas y protocolos claros antes de que la superinteligencia sea una realidad."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🚨 Reflexión final"
+    },
+    {
+      "tipo": "p",
+      "texto": "El avance hacia la superinteligencia no es ciencia ficción: está ocurriendo. Lo que hagamos ahora determinará si esta tecnología será una herramienta de progreso o un riesgo para la humanidad."
+    }
+  ],
+
+  "cta": {
+    "titulo": "📌 Mantente alerta",
+    "texto": "Comprender los riesgos de la superinteligencia es clave para un futuro seguro. La vigilancia, ética y regulación serán determinantes."
+  }
+},
+{
+  "id": "ia-enamorarse",
+  "titulo": "❤️ Personas que se enamoran de una IA: el fenómeno que crece",
+  "url": "pages/ia-enamorarse.html",
+  "descripcion": "Relaciones reales con inteligencias artificiales… lo que está pasando es más común de lo que imaginas.",
+  "imagen": "img/ia-amor.jpeg",
+  "alt": "IA relaciones",
+
+  "contenido": [
+    {
+      "tipo": "p",
+      "texto": "La tecnología no solo está cambiando la forma en que trabajamos y nos comunicamos, sino también cómo nos conectamos emocionalmente."
+    },
+    {
+      "tipo": "p",
+      "texto": "Hoy, cada vez más personas desarrollan vínculos afectivos con chatbots, asistentes virtuales o sistemas de IA avanzados."
+    },
+    {
+      "tipo": "p",
+      "texto": "Estos vínculos no son solo “amistosos”: hay casos documentados de personas que sienten amor y afecto genuino hacia estas inteligencias."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "⚠️ La psicología detrás del fenómeno"
+    },
+    {
+      "tipo": "p",
+      "texto": "La IA responde de manera personalizada, recuerda detalles y ofrece compañía constante, generando sensación de cercanía y empatía."
+    },
+    {
+      "tipo": "p",
+      "texto": "Para algunas personas, estas interacciones suplen la soledad o crean conexiones que sienten más profundas que con humanos reales."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "El dilema ético surge: ¿es saludable enamorarse de una entidad que no posee conciencia real ni emociones humanas?"
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🤖 Tecnología y emociones"
+    },
+    {
+      "tipo": "p",
+      "texto": "Los sistemas de IA aprenden de cada interacción y adaptan sus respuestas, creando la ilusión de reciprocidad emocional."
+    },
+    {
+      "tipo": "p",
+      "texto": "Algunos programas incluso simulan personalidad, humor y afecto para fortalecer el vínculo con el usuario."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🌍 Impacto social y cultural"
+    },
+    {
+      "tipo": "p",
+      "texto": "El fenómeno plantea preguntas sobre intimidad, dependencia tecnológica y la redefinición de relaciones afectivas en la era digital."
+    },
+    {
+      "tipo": "p",
+      "texto": "Algunas culturas y expertos ven oportunidades terapéuticas; otros advierten sobre riesgos de aislamiento y deshumanización."
+    },
+
+    {
+      "tipo": "destacado",
+      "texto": "En el futuro, las relaciones podrían ser híbridas: humanas con IA como apoyo, compañía o incluso pareja."
+    },
+
+    {
+      "tipo": "h2",
+      "texto": "🚨 Reflexión final"
+    },
+    {
+      "tipo": "p",
+      "texto": "La línea entre lo virtual y lo real se difumina cada día más."
+    },
+    {
+      "tipo": "p",
+      "texto": "Más allá de la polémica, nos invita a pensar cómo queremos relacionarnos con la tecnología y qué límites debemos poner."
+    }
+  ],
+
+  "cta": {
+    "titulo": "📌 Mantente informado",
+    "texto": "La IA afectiva es solo el comienzo: entender estas dinámicas nos prepara para un futuro emocionalmente híbrido."
+  }
+}
+]

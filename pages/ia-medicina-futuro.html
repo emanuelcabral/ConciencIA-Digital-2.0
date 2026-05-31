@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>La IA ya está reemplazando empleos | ConciencIA Digital</title>
+  <meta name="description" content="Millones de trabajos podrían desaparecer antes de lo que crees… pero hay un detalle oculto que cambia todo.">
+
+  <link rel="stylesheet" href="../style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="dark-theme">
+
+  <!-- NAVBAR -->
+  <header>
+    <nav class="navbar">
+      <div class="logo">Concienc<span>IA</span> Digital</div>
+
+      <input type="checkbox" id="menu-toggle">
+      <label for="menu-toggle" class="hamburger">&#9776;</label>
+
+      <ul class="nav-links">
+        <li><a href="../index.html">Inicio</a></li>
+        <li><a href="../index.html#articulos">Artículos</a></li>
+        <li><a href="#">Contacto</a></li>
+        <li>
+          <button id="theme-toggle" class="theme-btn">☀️</button>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- ARTÍCULO -->
+  <main class="article-page">
+    <section class="article-container">
+
+      <h1 id="titulo"></h1>
+
+      <p id="descripcion" class="subtitle"></p>
+
+      <img id="imagen" src="" alt="">
+
+      <div id="contenido" class="article-content"></div>
+
+      <section class="article-cta">
+        <h3>📌 Mantente al día</h3>
+        <p>
+          Comprender cómo la IA impacta nuestras vidas permite tomar
+          mejores decisiones y prepararse para el futuro.
+        </p>
+      </section>
+
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 ConciencIA Digital | Hecho con ❤️ y <span>IA</span></p>
+  </footer>
+
+  <!-- SCRIPT CARGA ARTÍCULO -->
+  <script>
+
+  async function cargarArticulo() {
+
+      const params = new URLSearchParams(window.location.search);
+
+      const id = params.get('id') || window.location.pathname.split('/').pop().replace('.html','');
+
+      try {
+
+          const response = await fetch('../articulos.json');
+
+          const articulos = await response.json();
+
+          const articulo = articulos.find(a => a.id === id);
+
+          if(!articulo){
+              document.getElementById('contenido').innerHTML =
+                  '<h2>Artículo no encontrado</h2>';
+              return;
+          }
+
+          document.title =
+              articulo.titulo + ' | ConciencIA Digital';
+
+          document.querySelector('meta[name="description"]')
+              .setAttribute('content', articulo.descripcion);
+
+          document.getElementById('titulo').textContent =
+              articulo.titulo;
+
+          document.getElementById('descripcion').textContent =
+              articulo.descripcion;
+
+          document.getElementById('imagen').src =
+              '../' + articulo.imagen;
+
+          document.getElementById('imagen').alt =
+              articulo.alt;
+
+          let html = '';
+
+articulo.contenido.forEach(bloque => {
+
+    if (bloque.tipo === 'p') {
+        html += `<p>${bloque.texto}</p>`;
+    }
+
+    else if (bloque.tipo === 'h2') {
+        html += `<h2>${bloque.texto}</h2>`;
+    }
+
+    else if (bloque.tipo === 'destacado') {
+        html += `
+            <div class="highlight-box">
+                <p>${bloque.texto}</p>
+            </div>
+        `;
+    }
+
+});
+
+document.getElementById('contenido').innerHTML = html;
+
+      }
+      catch(error){
+          console.error(error);
+
+          document.getElementById('contenido').innerHTML =
+              '<h2>Error cargando artículo</h2>';
+      }
+
+  }
+
+  cargarArticulo();
+
+  </script>
+
+  <!-- DARK / LIGHT -->
+  <script>
+
+  const themeToggle = document.getElementById('theme-toggle');
+  const body = document.body;
+
+  themeToggle.addEventListener('click', () => {
+
+      body.classList.toggle('dark-theme');
+      body.classList.toggle('light-theme');
+
+      themeToggle.textContent =
+          body.classList.contains('dark-theme')
+          ? '☀️'
+          : '🌙';
+  });
+
+  </script>
+
+  <!-- SUBIR -->
+  <a href="#" class="subir" aria-label="Subir al inicio">
+    <span>☝️</span>
+  </a>
+
+</body>
+</html>
