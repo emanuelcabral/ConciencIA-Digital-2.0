@@ -1,4 +1,5 @@
-# 🌐 ConciencIA Digital
+# 🌐 ConciencIA Digital 2.0
+
 
 Bienvenido a **ConciencIA Digital**, un proyecto educativo que explora el fascinante mundo de la **Inteligencia Artificial (IA)** y su impacto en la sociedad. Aquí encontrarás artículos, análisis y reflexiones sobre los últimos avances en IA, su ética, riesgos y oportunidades. 🚀🤖
 
